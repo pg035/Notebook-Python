@@ -6,3 +6,4 @@ scipy
 plotly
 sklearn
 statsmodels
+pandas_datareader
